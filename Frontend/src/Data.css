@@ -1,0 +1,33 @@
+.container{
+    min-height: 100px;
+  }
+  .btn-container {
+      display: flex;
+    }
+    
+    .btn-container .btn {
+      margin-right: 0px; 
+    }
+    
+    /* FilterData.css */
+  
+  .vertical-line {
+    position: absolute;
+    width: 20px; /* Adjust width as needed */
+    height: 100%; /* Adjust height as needed */
+    color: aqua;
+  }
+  
+  .vertical-line .yellow {
+    background-color: yellow; /* Color for machine_status 0 */
+    color: aqua;
+  }
+  
+  .vertical-line .green {
+    background-color: green; /* Color for machine_status 1 */
+  }
+  .vertical-line .red {
+    background-color: red; /* Color for machine_status 1 */
+  }
+  
+  
