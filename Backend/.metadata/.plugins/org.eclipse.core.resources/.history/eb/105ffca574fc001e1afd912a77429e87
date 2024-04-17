@@ -1,0 +1,7 @@
+package com.example.demo.Repositary;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface Test_Wathare_Repo extends JpaRepository<T, ID> {
+
+}

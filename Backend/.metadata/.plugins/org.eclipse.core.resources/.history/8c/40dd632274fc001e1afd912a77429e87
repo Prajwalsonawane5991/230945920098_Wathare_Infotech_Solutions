@@ -1,0 +1,18 @@
+package com.example.demo.Entity;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+@Entity
+public class Wathare {
+	@Id
+	private long id;
+	
+    private String ts;
+    
+    private int machines_status;
+    
+    private int viberations;
+    
+    
+    
+}

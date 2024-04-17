@@ -1,0 +1,13 @@
+package com.example.demo.Entity;
+
+public class Wathare {
+	@Id
+    private String ts;
+    
+    private int machines;
+    
+    private int viberation;
+    
+    
+    
+}
