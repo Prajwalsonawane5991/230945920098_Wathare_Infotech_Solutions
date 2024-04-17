@@ -14,6 +14,7 @@ function App() {
 
    <Header></Header>
    <FilterData></FilterData>
+    <SummaryTable></SummaryTable>
    <Footer></Footer>
     </div>
   
