@@ -5,7 +5,7 @@ const Header = () => {
     <header className="header">
     <nav className="navbar">
       <div className="navbar-brand">
-        <span className="navbar-item">Machinewise Moniter</span>
+        <span className="navbar-item">Machinewise Application</span>
       </div>
       <div className="navbar-menu">
         <div className="navbar-end">
